@@ -1,0 +1,27 @@
+body{
+    color: black;
+    font-size: 35px;
+    font-weight: 400;
+    background-color: teal;
+}
+.header {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+font-weight: 800;
+font-size: 80px;
+
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+button:hover{    
+    background-color: black;
+    color: white;
+
+}
